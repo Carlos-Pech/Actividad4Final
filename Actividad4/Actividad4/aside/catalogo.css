@@ -1,0 +1,229 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body
+{
+    background-color: #122437;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+
+.catalogo
+{
+    position: relative;
+    width: 1000%;
+    max-width: 650px;
+    min-height: 200px;
+    background-color:#145b84;
+    display: grid;
+    right: 300px ;
+    height: 1200px;
+}
+img{
+    border-radius: 20px solid red;
+    border-radius: 150px solid  yellow;
+
+}
+
+.Marca h1
+{
+    color: red;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 250px;
+    top: 40px;
+}
+.zapato1
+{
+    position: relative;
+    left: 16px;
+    top: 70px;
+    font-family:cursive;
+}
+
+.zapato2
+{
+    position: relative;
+    left: 230px;
+    top: -385px; 
+    font-family:cursive;
+}
+
+.zapato3
+{
+    position: relative;
+    left: 450px;
+    top: -848px;
+    font-family:cursive; 
+}
+
+.zapato4
+{
+    position: relative;
+    left: 440px;
+    top: -800px;
+    font-family:cursive; 
+}
+
+.zapato5
+{
+    position: relative;
+    left: 20px;
+    top: -1260px;
+    font-family:cursive;  
+}
+
+.zapato6
+{
+    position: relative;
+    left: 230px;
+    top: -1710px;  
+    font-family:cursive; 
+     
+}
+.zapato1 .letras1 h3
+{
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+
+}
+
+.zapato2 .letras2 h3
+{
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+
+}
+
+.zapato3 .letras3 h3
+{
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+
+}
+
+.zapato4 .letras4 h3
+{
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+
+}
+
+.zapato5 .letras5 h3
+{
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+
+}
+.zapato6 .letras6 h3
+{
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+
+}
+
+.zapato1 .letras1 .precio h5
+{
+    position: relative;
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+    top: -40px;
+
+}
+
+.zapato2 .letras2 .precio h5
+{
+    position: relative;
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+    top: -40px;
+
+}
+
+.zapato3 .letras3 .precio h5
+{
+    position: relative;
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+    top: -30px;
+
+}
+
+.zapato4 .letras4 .precio h5
+{
+    position: relative;
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+    top: -40px;
+
+}
+.zapato5 .letras5 .precio h5
+{
+    position: relative;
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+    top: -40px;
+
+}
+
+.zapato6 .letras6 .precio h5
+{
+    position: relative;
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+    top: -40px;
+
+}
+
+
+
+
+
+
+
+
+

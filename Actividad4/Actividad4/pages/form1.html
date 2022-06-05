@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../aside/form1.css">
+    <title>Formulario1</title>
+</head>
+<body>
+    <main>
+        <form> 
+            
+                <h1>Formulario para el Pasaporte</h1>
+                <label for="name">Nombre</label>
+                <input class="diseño" type="text" name="nombre" id="Nombre" minlength="2"
+                maxlength="20" placeholder="Nombre y apellidos completos" required >
+
+
+                <label for="fechadenacimiento">Fecha de nacimiento</label>
+                <input class="diseño" type="date" name="fechadenacimiento" id="fechadenacimiento">
+                
+                <label for="Nacionalidad">Nacionalidad</label>
+                <input class="diseño" type="text" name="Nacionalidad" id="Nacionalidad" minlength="2"
+                maxlength="10"  placeholder ="Nacionalidad" required>
+           
+                <label for="Pais">Pais donde emitio su pasaporte</label>
+                <input class="diseño" type="text" name="Pais" id="Pais" minlength="2"
+                maxlength="20" placeholder="Pais" required >
+          
+                <label for="Numero">Numero de pasaporte</label>
+                <input  class="diseño" type="number" name="Numero" id="Numero" placeholder="Numero de pasaporte" required>
+    
+     
+                <label for="fechadeemision">Fecha de emision de pasaporte</label>
+                <input class="diseño" type="date" name="fechadeemision" id="fechadeemision" required>  
+        
+                <label for="fechadevencimiento">Fecha de vencimiento de pasaporte</label>
+                <input  class="diseño" type="date" name="fechadevencimiento" id="fechadevencimiento" required>  
+        </form>
+    </main>
+</body>
+</html>

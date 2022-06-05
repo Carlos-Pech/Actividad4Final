@@ -1,0 +1,26 @@
+*
+{
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family: fantasy;
+    
+
+}
+h1{
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+.diseño
+{
+   width: 100%;
+   background: brown;
+   padding: 10px;
+   border-radius: 4px;
+   margin-bottom: 16px; 
+   border: 1px solid red;
+   font-family:cursive;
+   font-size: 10px;
+}
